@@ -57,7 +57,7 @@
     },
     {
       "detail": "Coursera 搜课程名 → 选「旁听 / Audit」免费看视频 → 看模块 1 前几段",
-      "done": false,
+      "done": true,
       "group": "英语 · Speak English",
       "id": "eng-sp-2026-10-28",
       "links": [
@@ -68,7 +68,8 @@
       ],
       "mins": 20,
       "source": "claude",
-      "text": "Speak English · 模块 1：Communicate in Person（面对面交流，含 small talk）"
+      "text": "Speak English · 模块 1：Communicate in Person（面对面交流，含 small talk）",
+      "doneAt": "2026-10-28T13:20:27.732Z"
     },
     {
       "detail": "Coursera 选旁听 → 看 Welcome → 开始模块 2；之后每天影子跟读 15 分钟",
@@ -88,5 +89,5 @@
   ],
   "plannedBy": "cs329z-week-plan",
   "progress": "CS329Z 必做 0/100 ░░░░░░░░░░ 0% · 选做 0/30 · W1 本周 0/17 · 按计划（第 1 天）",
-  "updatedAt": "2026-10-27T17:41:29.272Z"
+  "updatedAt": "2026-10-28T13:20:29.585Z"
 }
