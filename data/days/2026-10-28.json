@@ -1,6 +1,5 @@
 {
   "date": "2026-10-28",
-  "englishPlan": true,
   "headline": "第 1 周（10/28–11/03）里程碑：看完 L01–L03 的课件和必读，答完 3 道自测题，搭好 HW1 环境，做完 P1、P2（P3 BM25 留到 11/7 周六）。\n今天只做第 1 讲：课件 + Zaharia 博客，约 70 分钟就停。昨天 4 条准备任务全部完成，开局很顺。",
   "items": [
     {
@@ -54,40 +53,9 @@
       "mins": 30,
       "source": "claude",
       "text": "读老师的 ISCRAM WiP 论文摘要和结构"
-    },
-    {
-      "detail": "Coursera 搜课程名 → 选「旁听 / Audit」免费看视频 → 看模块 1 前几段",
-      "done": true,
-      "group": "英语 · Speak English",
-      "id": "eng-sp-2026-10-28",
-      "links": [
-        {
-          "label": "Coursera 课程页",
-          "url": "https://www.coursera.org/learn/speak-english-professionally"
-        }
-      ],
-      "mins": 20,
-      "source": "claude",
-      "text": "Speak English · 模块 1：Communicate in Person（面对面交流，含 small talk）",
-      "doneAt": "2026-10-28T13:20:27.732Z"
-    },
-    {
-      "detail": "Coursera 选旁听 → 看 Welcome → 开始模块 2；之后每天影子跟读 15 分钟",
-      "done": false,
-      "group": "英语 · 发音跟读",
-      "id": "eng-mu-2026-10-28",
-      "links": [
-        {
-          "label": "Coursera 课程页",
-          "url": "https://www.coursera.org/learn/american-english-pronunciation-music"
-        }
-      ],
-      "mins": 15,
-      "source": "claude",
-      "text": "发音跟读 · 模块 2：Syllables and Word Stress（音节与词重音）"
     }
   ],
   "plannedBy": "cs329z-week-plan",
   "progress": "CS329Z 必做 0/100 ░░░░░░░░░░ 0% · 选做 0/30 · W1 本周 0/17 · 按计划（第 1 天）",
-  "updatedAt": "2026-10-28T13:20:29.585Z"
+  "updatedAt": "2026-10-28T16:05:00Z"
 }

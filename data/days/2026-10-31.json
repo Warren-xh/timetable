@@ -1,6 +1,5 @@
 {
   "date": "2026-10-31",
-  "englishPlan": true,
   "headline": "周六长块（约 110 分钟）：收尾第 2 讲，然后正式开写 HW1，做完第 1 题。",
   "items": [
     {
@@ -52,55 +51,9 @@
       "ref": "cs329z:W1-p1",
       "source": "claude",
       "text": "HW1 P1 priority：邮件优先级（3 分）"
-    },
-    {
-      "detail": "周六长一点：把本模块剩下的视频看完，做一次口语练习录音",
-      "done": false,
-      "group": "英语 · Speak English",
-      "id": "eng-sp-2026-10-31",
-      "links": [
-        {
-          "label": "Coursera 课程页",
-          "url": "https://www.coursera.org/learn/speak-english-professionally"
-        }
-      ],
-      "mins": 25,
-      "source": "claude",
-      "text": "Speak English · 模块 1：Communicate in Person（面对面交流，含 small talk）"
-    },
-    {
-      "detail": "录一段 1 分钟跟读，和原音对比重音和节奏；课内有互评就提交",
-      "done": false,
-      "group": "英语 · 发音跟读",
-      "id": "eng-mu-2026-10-31",
-      "links": [
-        {
-          "label": "Coursera 课程页",
-          "url": "https://www.coursera.org/learn/american-english-pronunciation-music"
-        }
-      ],
-      "mins": 20,
-      "source": "claude",
-      "text": "发音跟读 · 模块 2：Syllables and Word Stress（音节与词重音）"
-    },
-    {
-      "detail": "edX 搜 Conversational English Skills（生活英语听说）。这门课可能已归档，先确认还能打开；打不开就跳过",
-      "done": false,
-      "group": "英语 · 清华生活英语（选做）",
-      "howto": "页面是西班牙语版也没关系，点 Inscríbete（注册）；如果显示已归档，看能不能直接点进课程看视频",
-      "id": "eng-th-2026-10-31",
-      "links": [
-        {
-          "label": "edX 课程页",
-          "url": "https://edx.org/es/course/conversational-english-skills"
-        }
-      ],
-      "mins": 15,
-      "source": "claude",
-      "text": "清华生活英语 · Unit 1 自我介绍与交换个人信息"
     }
   ],
   "plannedBy": "cs329z-week-plan",
   "progress": "预排计划 · 每天早上 9 点会按你的真实勾选更新这一行",
-  "updatedAt": "2026-10-27T16:50:00Z"
+  "updatedAt": "2026-10-28T16:05:00Z"
 }
