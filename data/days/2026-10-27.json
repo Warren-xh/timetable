@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-27",
+  "headline": "CS329Z 明天（10/28）正式开始第 1 周。今天先把资料和工具理顺，轻松一点。",
+  "items": [
+    {
+      "detail": "Safari 打开本页 → 菜单「文件」→「添加到程序坞」，以后像 App 一样点开",
+      "done": true,
+      "doneAt": "2026-10-27T12:19:53.344Z",
+      "group": "准备",
+      "id": "prep-dock",
+      "mins": 5,
+      "source": "claude",
+      "text": "把这个清单添加到程序坞"
+    },
+    {
+      "detail": "桌面 › 2026 › 斯坦福 agent 课 › 00_目录说明.md",
+      "done": true,
+      "doneAt": "2026-10-27T12:19:58.744Z",
+      "group": "准备",
+      "id": "prep-folder",
+      "mins": 5,
+      "source": "claude",
+      "text": "看一眼整理好的课程文件夹"
+    },
+    {
+      "detail": "里面只剩已经解压过的旧 zip 和分段包",
+      "done": true,
+      "doneAt": "2026-10-27T12:20:24.780Z",
+      "group": "准备",
+      "id": "prep-trash",
+      "mins": 2,
+      "source": "claude",
+      "text": "删掉 _to_delete 文件夹"
+    },
+    {
+      "detail": "arxiv.org/pdf/2110.08010 · 看篇幅、章节和实验规模，为 12/31 CoRe 做参照",
+      "done": true,
+      "doneAt": "2026-10-27T15:00:53.258Z",
+      "group": "ISCRAM 投稿",
+      "id": "iscram-read",
+      "mins": 30,
+      "source": "claude",
+      "text": "读老师的 ISCRAM WiP 论文摘要和结构"
+    }
+  ],
+  "progress": "CS329Z 必做 0/100  ░░░░░░░░░░ 0%  ·  W1 基础与检索 从明天开始",
+  "updatedAt": "2026-10-27T15:00:53.481Z"
+}

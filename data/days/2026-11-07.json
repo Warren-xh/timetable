@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-07",
+  "englishPlan": true,
+  "headline": "英语课已预排。当天的 CS329Z 任务会在早上 9 点由自动任务补上。",
+  "items": [
+    {
+      "detail": "周六长一点：把本模块剩下的视频看完，做一次口语练习录音",
+      "done": false,
+      "group": "英语 · Speak English",
+      "id": "eng-sp-2026-11-07",
+      "links": [
+        {
+          "label": "Coursera 课程页",
+          "url": "https://www.coursera.org/learn/speak-english-professionally"
+        }
+      ],
+      "mins": 25,
+      "source": "claude",
+      "text": "Speak English · 模块 2：Meet and Talk Online（线上会议）"
+    },
+    {
+      "detail": "录一段 1 分钟跟读，和原音对比重音和节奏；课内有互评就提交",
+      "done": false,
+      "group": "英语 · 发音跟读",
+      "id": "eng-mu-2026-11-07",
+      "links": [
+        {
+          "label": "Coursera 课程页",
+          "url": "https://www.coursera.org/learn/american-english-pronunciation-music"
+        }
+      ],
+      "mins": 20,
+      "source": "claude",
+      "text": "发音跟读 · 模块 3：Thought Groups, Rhythm, and Reduced Words（意群、节奏、弱读）"
+    },
+    {
+      "detail": "只看视频，听不同口音（含爱尔兰口音），不做作业",
+      "done": false,
+      "group": "英语 · 清华生活英语（选做）",
+      "howto": "页面是西班牙语版也没关系，点 Inscríbete（注册）；如果显示已归档，看能不能直接点进课程看视频",
+      "id": "eng-th-2026-11-07",
+      "links": [
+        {
+          "label": "edX 课程页",
+          "url": "https://edx.org/es/course/conversational-english-skills"
+        }
+      ],
+      "mins": 15,
+      "source": "claude",
+      "text": "清华生活英语 · Unit 2 家人和朋友"
+    }
+  ],
+  "progress": "",
+  "updatedAt": "2026-10-27T16:50:00Z"
+}
