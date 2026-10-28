@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "repo": "warren-xh/timetable",
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "salt": "GRI3Ts2vgaQwOSmhX06n/g==",
+  "iv": "htOwl1X+acL+oCm3",
+  "ciphertext": "1W4QQkE+hADS4QoNWhBH9xxUyE3CKI4kpFxyq2StqBsnbmgOfeAyUKPPDf+jY+ySOp03yw2SjSb5PEOQ5XdT7Ng0ulkBgL19dhB3+EBnnAJN9zuaDHWgKDGBjV3VLtAHDdVmc764vDeZ0AyDqL6lBBmZhweQiNSS6EsA/HvxfpVWC9DS7o0kPWhrNJkGZFjaAsLAU0JG",
+  "updatedAt": "2026-10-28T13:20:18.537Z"
+}
