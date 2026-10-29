@@ -4,8 +4,8 @@
   "items": [
     {
       "detail": "讲次/L01 · CS329Z_L01_课件_Agent概览.pdf · 重点：workflow vs agent、ReAct 循环",
-      "done": false,
-      "doneAt": null,
+      "done": true,
+      "doneAt": "2026-10-28T16:31:57.797Z",
       "group": "CS329Z",
       "id": "L01-slides",
       "links": [

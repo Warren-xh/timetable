@@ -1,7 +1,28 @@
 {
   "date": "2026-10-29",
-  "headline": "读完第 1 讲的必读，再把 HW1 环境搭起来，后面写作业就不用卡在安装上。",
+  "headline": "把第 1 讲收尾：顺延的 Zaharia 博客 + Weng 长文 + 自测题，约 70 分钟。HW1 环境搭建挪到周六的长块。\n昨天第 1 讲课件完成了，第一天就开了头，很好。",
+  "plannedBy": "cs329z-week-plan",
+  "progress": "CS329Z 必做 1/100 ░░░░░░░░░░ 1% · 选做 0/30 · W1 本周 1/17 · 落后 1 项（今天补上）",
+  "updatedAt": "2026-10-29T15:00:00Z",
   "items": [
+    {
+      "carried": true,
+      "detail": "CS329Z_L01_R1_Zaharia2024_Compound-AI-Systems.html · 昨天顺延",
+      "done": false,
+      "group": "CS329Z",
+      "id": "L01-R1",
+      "links": [
+        {
+          "label": "在线阅读",
+          "url": "https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/"
+        }
+      ],
+      "local": "讲次/L01*/*L01_R1_*",
+      "mins": 25,
+      "ref": "cs329z:L01-R1",
+      "source": "claude",
+      "text": "读 Zaharia 2024 · Compound AI Systems（必读）"
+    },
     {
       "detail": "CS329Z_L01_R2_Weng2023_LLM-Powered-Agents.html · 长文，读规划、记忆、工具三节即可",
       "done": false,
@@ -35,30 +56,6 @@
       "ref": "cs329z:L01-q",
       "source": "claude",
       "text": "回答第 1 讲自测题（写在笔记里）"
-    },
-    {
-      "detail": "装 uv → 在 HW1 目录 cp .env.example .env → 填 OpenRouter key → 设 CS329Z_BUDGET_USD=10 → uv sync",
-      "done": false,
-      "group": "CS329Z",
-      "id": "W1-setup",
-      "links": [
-        {
-          "label": "uv 安装说明",
-          "url": "https://docs.astral.sh/uv/getting-started/installation/"
-        },
-        {
-          "label": "OpenRouter API key",
-          "url": "https://openrouter.ai/settings/keys"
-        }
-      ],
-      "local": "代码",
-      "mins": 25,
-      "ref": "cs329z:W1-setup",
-      "source": "claude",
-      "text": "搭 HW1 环境"
     }
-  ],
-  "plannedBy": "cs329z-week-plan",
-  "progress": "预排计划 · 每天早上 9 点会按你的真实勾选更新这一行",
-  "updatedAt": "2026-10-28T16:05:00Z"
+  ]
 }
